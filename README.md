@@ -2,7 +2,7 @@
 
 Welcome to my **Environment Awareness** website — a simple yet meaningful project built to spread awareness about protecting our planet 🌎. It’s informative, lightweight, and made with clean, responsive design in mind.
 
-🔗 **Live Website:** [muhannad7usam.github.io/Environment](https://muhannad7usam.github.io/Environment/)
+🔗 **Live Website:** [muhannad7usam.github.io/Environment-FRONT-END](https://muhannad7usam.github.io/Environment-FRONT-END/)
 
 ---
 
